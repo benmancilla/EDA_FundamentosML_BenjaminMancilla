@@ -1,8 +1,7 @@
-En este trabajo se hizo un breve analizis (mediante el uso de google collab) de la venta y envio de diversos productos de diferentes paises.
+
 
 Se analizo:
 
--El producto mas vendido.
--El pais con mas envios de productos.
+ticket promedio, productos más vendidos, diferencias entre países, y comportamiento temporal de las compras.
 
-El archivo se encuentra en main
+El archivo se encuentra en la rama revision
